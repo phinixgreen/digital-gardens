@@ -1,5 +1,5 @@
 #+Title: Book of Tools
-#+Author: Muhammad Mustafa Monowar
+#+Subtitle: Muhammad Mustafa Monowar
 #+EMAIL: mustafamonowar.esl@gmail.com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: html-style:nil
