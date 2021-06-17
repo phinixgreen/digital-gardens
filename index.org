@@ -4,6 +4,32 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: html-style:nil
 
-* Title
-** Heading 1
-** Heading 2
+* Foreward
+I want to write a book on tools based on what I have experiences so far. Book of Tools aims to empower youngsters with the tooling skills that will help them on their way to finding their voice in an increasingly economic scenario. While these tools themselves do no guarantee success in endeavours, they will however prepares the readers for some of the critical problems in our time. Tooling is about mastering tools, and it often takes time master a tool, in some cases, a life-time. While knowing this can be daunting, the journey is more fun when we are able to use and apply tooling skills to everyday problems.
+
+In this book, I will talk about three kinds of tools. These are-
+
+- Psychological Principles
+- Tooling Skills
+- Social Tools
+
+Each of these tool categories overlap in their area, yet they concentrate on our inner mindspace, our ability to get our own job done, productively and effectively, and help organize as team or social unit.
+
+These tools will be explained in terms of classes. Classes are roles, traits or work preferences that youngsters can choose based on their interests and skills. The four classes that this book will cover are-
+
+- Scholar
+- Leader
+- Executive
+- Representative
+
+The Scholar class is as the name suggests, those who prefer to major in this class are usually information savvy in terms of books and textual materials. They know the value of academic discourse, and keen on exploring, understanding and sharing knowledge. Those who prefer this class are essentially knowledge-workers of the future. Therefore the tooling that I will introduce for scholars will help them do research, organize research and communicate findings in form of knowledge artefacts.
+
+The Leader class is for those who are adept in people skills, that is those who are good at coordinating tasks and leading teams to success. Leaders are by default social, and have a network that they can put to use with great creativity. Those who prefer this class are social problem solvers and entreprenuers. While this book will not be crash course on entreprenuership, the tooling that will be introduced in this book will help them to identify and decompose problems, learn how to plan strategically and lead team(s).
+
+The Executive class is for those who prefer and wish to be good at getting things done. Executives are hardworkers, and they do things with great details. However, because they volunteer to take responsibilities the volume of tasks, at times, can become overwhelming for them. Those who prefer this class have an interest in doing more, with quality, and in less time, while keeping track of what tasks are being done. The tools introduced in this book will help them think in a principled way when doing things, make use of some of the proven techniques in the industry, while communicating with others on works being done.
+
+Lastly, the Representative class is for those who wish to make the endeavours of their team visible and recognized. This class is, as the name implies, about representing and outreach. Those who prefer this class have an interest in understanding people’s psychology, especially when dealing with delivery of a service or product. This book will introduce them to tools that will help them to discover and understand what others as customers expects from them or their team, how to share these expectations within a team, how to handle conflicts of interest between customers and the team.
+
+Disclaimer: Although I talk about interesting tooling in my work, the tools mentioned were not invented, created or otherwise conceived by me. I happen to explore tools and wish to share with youngsters of the rich inventory of tools that they can make use of. This book is not a handbook or manual, it is merely a introduction to some of the few tools that I know of.
+
+Keep in mind that tools often get obsolete with technological progress, and most of these tools will get obsolete with time. The steep learning curve that is put to toil to learn, may seem to go in vain in the face value. But those who do tooling, develop a muscle for acquiring skills, and each skill they acquire, compliments their other skills. That being said, tooling is an extremely rewarding and enjoyable journey. Learning tools not only helps us stay organized but also stay productive in the face of complex challenges. The readers will therefore benefit from knowing some of these tools for their career and personal life.

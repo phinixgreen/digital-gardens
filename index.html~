@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-06-17 Thu 18:15 -->
+<!-- 2021-06-17 Thu 18:34 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Hello</title>
+<title>Book of Tools</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Monowar" />
+<meta name="author" content="Muhammad Mustafa Monowar" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 <script type="text/javascript">
 // @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
@@ -35,36 +35,36 @@
 </head>
 <body>
 <div id="content">
-<h1 class="title">Hello</h1>
+<h1 class="title">Book of Tools</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org72d0e6a">1. Title</a>
+<li><a href="#org6464290">1. Title</a>
 <ul>
-<li><a href="#org5ccd0e5">1.1. Heading 1</a></li>
-<li><a href="#orgb8fb68a">1.2. Heading 2</a></li>
+<li><a href="#org60155e5">1.1. Heading 1</a></li>
+<li><a href="#orgb0e2f2c">1.2. Heading 2</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org72d0e6a" class="outline-2">
-<h2 id="org72d0e6a"><span class="section-number-2">1.</span> Title</h2>
+<div id="outline-container-org6464290" class="outline-2">
+<h2 id="org6464290"><span class="section-number-2">1.</span> Title</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org5ccd0e5" class="outline-3">
-<h3 id="org5ccd0e5"><span class="section-number-3">1.1.</span> Heading 1</h3>
+<div id="outline-container-org60155e5" class="outline-3">
+<h3 id="org60155e5"><span class="section-number-3">1.1.</span> Heading 1</h3>
 </div>
-<div id="outline-container-orgb8fb68a" class="outline-3">
-<h3 id="orgb8fb68a"><span class="section-number-3">1.2.</span> Heading 2</h3>
+<div id="outline-container-orgb0e2f2c" class="outline-3">
+<h3 id="orgb0e2f2c"><span class="section-number-3">1.2.</span> Heading 2</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Monowar</p>
-<p class="date">Created: 2021-06-17 Thu 18:15</p>
+<p class="author">Author: Muhammad Mustafa Monowar</p>
+<p class="date">Created: 2021-06-17 Thu 18:34</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
