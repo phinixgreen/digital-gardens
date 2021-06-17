@@ -13,7 +13,7 @@ text-table-of-contents {color:aqua}
 
 
 @media only screen and (max-width:768px ){
-body {width: 98%; padding: 1%}
+body {width: 98%; padding: 3%}
 .title {size: fit-content; width: fit-content;}
 .subtitle{size: fit-content; width: fit-content;}
 }
