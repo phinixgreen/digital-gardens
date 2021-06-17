@@ -1,19 +1,19 @@
-.title {text-align: center; font-size: 100px ;font-weight: 800; font-family: Arial, Helvetica, sans-serif;}
+.title {text-align: center; font-size: 80px ;font-weight: 800; font-family: Arial, Helvetica, sans-serif;}
 p.author {color: #c76767;}
 
-body {background-color: #f8f8f8; color: #001807; font-family: 'Courier New', Courier, monospace; padding-right: 10%; padding-left: 10%; text-align:justify; margin-left: 10%; margin-right: 10%; margin-top: 5%;
-     text-justify: newspaper; font-weight: 500; font-size:medium;}
+body {background-color: #f8f8f8; color: #001807; font-family:'Times New Roman', Times, serif; padding-right: 10%; padding-left: 10%; text-align:justify; margin-left: 10%; margin-right: 10%; margin-top: 5%;
+     text-justify: newspaper; font-weight: 500; font-size:xx-large;}
 
 link.target {color: #cbe2c0;}
 
 link {color: #cbe2c0;}
 
 text-table-of-contents {color:aqua}
-.subtitle {text-align: center; font-size: 50px ;font-weight: 500; font-family: Arial, Helvetica, sans-serif;}
+.subtitle {text-align: center; font-size: 40px ;font-weight: 500; font-family: Arial, Helvetica, sans-serif;}
 
 
 @media only screen and (max-width:768px ){
 body {width: 98%; align-self: center;}
-.title {size: 80px; width: fit-content;}
-.subtitle{size: 40px; width: fit-content;}
+.title {size: 70px; width: fit-content;}
+.subtitle{size: 30px; width: fit-content;}
 }
