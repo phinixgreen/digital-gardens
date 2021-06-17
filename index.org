@@ -1,13 +1,9 @@
 #+Title: Hello
-#+Author: Hello
+#+Author: Monowar
 #+EMAIL: mustafamonowar.esl@gmail.com
-#+SETUPFILE: https://github.com/fniessen/org-html-themes/blob/master/org/theme-readtheorg.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+OPTIONS: html-style:nil
 
-#+begin_sidebar
-
-[[~/Desktop/Codes/Digital-Gardens/pages/2021-06-17/2021-06-17-Post1.html][Post1]]
-
-#+end_Sidebar
-
-
-* Hello
+* Title
+** Heading 1
+** Heading 2
