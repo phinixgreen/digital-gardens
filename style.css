@@ -2,7 +2,7 @@
 p.author {color: #c76767;}
 
 body {background-color: #f8f8f8; color: #001807; font-family: 'Courier New', Courier, monospace; padding-right: 10%; padding-left: 10%; text-align:justify; margin-left: 5%; margin-right: 5%; margin-top: 5%;
-     text-justify: newspaper;}
+     text-justify: newspaper; font-weight: 500; font-size:medium;}
 
 link.target {color: #cbe2c0;}
 
