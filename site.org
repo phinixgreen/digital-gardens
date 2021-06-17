@@ -1,8 +1,0 @@
-#+Title: Site
-#+Author: Muhammad Mustafa Monowar
-
-* Title
-
-** Heading 1
-
-** Heading 2
